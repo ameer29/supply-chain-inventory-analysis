@@ -2,7 +2,7 @@
 
 **AnalytixLabs integrated case study · Oct 2023 · Python · pandas · Plotly · GeoPandas · statsmodels · Excel dashboard**
 
-This was the Python capstone of my 2023 career switch into data analytics. It uses a global sports-and-outdoor retailer's supply-chain data: **180,519 order lines** and a **118-product inventory table** covering 2015 to early 2018. The goal was to find where deliveries fail, where stock and profit sit, and what to prioritise.
+This was the Python capstone of my 2023 full-time data-analytics studies. It uses a global sports-and-outdoor retailer's supply-chain data: **180,519 order lines** and a **118-product inventory table** covering 2015 to early 2018. The goal was to find where deliveries fail, where stock and profit sit, and what to prioritise.
 
 | | |
 |---|---|
