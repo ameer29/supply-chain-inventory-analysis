@@ -70,4 +70,4 @@ This was the Python capstone of my 2023 career switch into data analytics. It us
 *Dataset provided by AnalytixLabs for the case study (the DataCo supply-chain dataset); it isn't redistributed here.*
 
 ---
-Part of my portfolio · **[ameer29.github.io](https://ameer29.github.io)** · more 2023 work: [Python case studies](https://github.com/ameer29/analytixlabs-python-case-studies) · [SQL + Excel + Power BI retail case](https://github.com/ameer29/Customer-Analysis)
+Part of my portfolio · **[ameer29.github.io](https://ameer29.github.io)** · more 2023 work: [Python case studies](https://github.com/ameer29/analytixlabs-python-case-studies) · [SQL + Excel + Power BI retail case](https://github.com/ameer29/retail-customer-analysis-sql-powerbi)
